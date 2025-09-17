@@ -1,24 +1,22 @@
 ![Bottom_up](https://github.com/user-attachments/assets/4da6977a-113b-4fab-b853-eb496dd8cedd)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=64B3F4&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Muhammad+Husnain;Flutter+Developer;Mobile+App+Enthusiast;Future+Full-Stack+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=64B3F4&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Muhammad+Husnain;Flutter+Developer;Mobile+App+Enthusiast;Future+Full-Stack+Engineer" alt="Typing SVG" />
 </p>
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=muhammadhusnainshahid&color=blue&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/muhammadhusnainshahid?label=Followers&style=for-the-badge&color=64B3F4)
-![GitHub Stars](https://img.shields.io/github/stars/muhammadhusnainshahid?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=for-the-badge&color=FFD700)
+![Profile Views](https://komarev.com/ghpvc/?username=muhammadhusnainshahid&color=blue&style=for-the-badge)  
+![GitHub Followers](https://img.shields.io/github/followers/muhammadhusnainshahid?label=Followers&style=for-the-badge&color=64B3F4)  
+![GitHub Stars](https://img.shields.io/github/stars/muhammadhusnainshahid?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=for-the-badge&color=FFD700)  
 
 </div>
 
 ---
 
-## 🚀 About Me  
-
+## 🚀 About Me 💻
 <div align="center">
 
-### 💻 About Me  
 🚀 **Mobile Application Developer** | 🔥 **Flutter Enthusiast** | 🎨 **UI/UX Designer**  
 
 - 😄 **Pronouns:** he/him  
@@ -30,30 +28,22 @@
 - 🎨 Focused on creating beautiful, native UI designs.  
 - ⚡ **Fun Fact:** I debug code faster than I cook dinner! 😆  
 
-<br>  
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />  
 
 </div>
 
 ---
 
-### 🔭 Current Focus  
+## 🔭 Current Focus
 - 🚀 Building cross-platform mobile applications with **Flutter & Dart**  
 - 🌱 Learning **Backend Development** (Node.js, Express, MongoDB)  
 - 💡 Exploring **UI/UX Design** principles for better user experiences  
 
-### ⚡ Quick Facts  
-- 💬 Ask me about **Flutter** - I love to help!  
-- 📫 Reach me at: **husnainshahidm@gmail.com**  
-- 😄 Fun fact: **I’m young, curious & passionate about coding!**  
-
 ---
 
 ## 🛠️ Tech Stack  
-
 <div align="center">
-  
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
@@ -69,10 +59,9 @@
 ---
 
 ## 📊 GitHub Analytics  
-
 <div align="center">
-  
-| <img src="https://github-readme-stats.vercel.app/api?username=muhammadhusnainshahid&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Muhammad's GitHub stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhusnainshahid&theme=radical&hide_border=true" alt="Muhammad's GitHub streak" /> |
+
+| <img src="https://github-readme-stats.vercel.app/api?username=muhammadhusnainshahid&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" height="180" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhusnainshahid&theme=radical&hide_border=true" height="180" /> |
 | --- | --- |
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhusnainshahid&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>  
@@ -84,7 +73,6 @@
 ---
 
 ## 🌟 Featured Projects  
-
 <div align="center">
 
 | Project | Description | Technologies |
@@ -99,14 +87,13 @@
 ---
 
 ## 🤝 Connect With Me  
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadhusnainshahid)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husnainshahidm@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the.husnainshahid?igsh=MXNwbXNwZ3MxaGV5OQ==/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the.husnainshahid)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/share/19mumJmamN/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com//in/muhammad-husnain-shahid-36b34b26b)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-husnain-shahid-36b34b26b)  
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/husnainshahidm1)  
 
 </div>
@@ -114,5 +101,5 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=199A8E&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+always+learning+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=199A8E&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+learning+🚀">
 </div>
