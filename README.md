@@ -10,13 +10,15 @@
 
 </div>
 
+---
+
 ## 🚀 About Me
 
 <div align="center">
 
 | | |
 | :--- | :--- |
-| **I'm a passionate mobile developer** with expertise in creating exceptional cross-platform applications using **Flutter** and **React Native**. I love transforming ideas into **working solutions** that solve real-world problems. | <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" /> |
+| **A passionate mobile developer** with expertise in creating cross-platform applications using **Flutter**. I love transforming ideas into **working solutions** that solve real-world problems. | <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" /> |
 
 </div>
 
@@ -28,22 +30,27 @@
 ### ⚡ Quick Facts
 - 💬 Ask me about **Flutter** - I love to help!
 - 📫 Reach me at: **husnainshahidm@gmail.com**
-- 😄 Fun fact: **I'm coming to teen** - young and passionate!
+- 😄 Fun fact: **I’m young, curious & passionate about coding!**
+
+---
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile Development
+<div align="center">
+  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🧰 Tools & Technologies
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+
+</div>
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -58,6 +65,8 @@
 
 </div>
 
+---
+
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -66,10 +75,12 @@
 | :--- | :--- | :--- |
 | **📱 Flutter E-Commerce App** | Complete store app with modern UI and Firebase backend | Flutter, Dart, Firebase |
 | **🚕 Taxi Booking App UI** | Flutter-based UI for ride-hailing apps | Flutter, Dart, Google Maps API |
-| **🤖 ChatGPT Bot in C++** | Console chatbot showcasing AI interaction basics | C++, OpenAI API |
-| **🛒 MERN Stack Store App** | Full-stack application with authentication and CRUD operations | MongoDB, Express, React, Node.js |
+| **🤖 ChatGPT Bot in C++** | Console chatbot showcasing AI basics | C++ |
+| **🛒 MERN Stack Store App** | Full-stack app with authentication & CRUD | MongoDB, Express, React, Node.js |
 
 </div>
+
+---
 
 ## 🤝 Connect With Me
 
@@ -79,20 +90,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husnainshahidm@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the.husnainshahid?igsh=MXNwbXNwZ3MxaGV5OQ==/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/share/19mumJmamN/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com//in/muhammad-husnain-shahid-36b34b26b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com//in/muhammad-husnain-shahid-36b34b26b)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/husnainshahidm1)
+
 </div>
 
 ---
 
 <div align="center">
-
-### ⚡️ Coding Activity
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 20 October 2022 - To: 27 October 2024
-
-Flutter/Dart   █████████████████████████   90.00%
-C++            ██████                     10.00%
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=199A8E&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+always+learning+🚀">
+</div>
