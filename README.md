@@ -1,3 +1,4 @@
+![Bottom_up](https://github.com/user-attachments/assets/4da6977a-113b-4fab-b853-eb496dd8cedd)<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="200" viewBox="0 0 854 200">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=64B3F4&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Muhammad+Husnain;Flutter+Developer;Mobile+App+Enthusiast;Future+Full-Stack+Engineer" alt="Typing SVG" />
 </p>
@@ -16,9 +17,19 @@
 
 <div align="center">
 
-| | |
-| :--- | :--- |
-| **A passionate mobile developer** with expertise in creating cross-platform applications using **Flutter**. I love transforming ideas into **working solutions** that solve real-world problems. | <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" /> |
+## 💻 About Me  
+🚀 **Mobile Application Developer** | 🔥 **Flutter Enthusiast** | 🎨 **UI/UX Designer**  
+
+- 😄 **Pronouns:** he/him 
+- 👀 Passionate about Flutter development, debugging, and crafting intuitive user interfaces.  
+- 🌱 Currently diving into advanced Flutter debugging techniques.  
+- 💞️ Open to collaborating on open-source Flutter projects & innovative mobile app ideas.  
+- 🏗️ Experienced in startups & full-scale app development.  
+- 🔹 Skilled in **C, C++, Java, Data Structures, Algorithms, Dart, and Flutter**.  
+- 🎨 Focused on creating beautiful, native UI designs.  
+- ⚡ **Fun Fact:** I debug code faster than I cook dinner! 😆 
+
+<br> | <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" /> |
 
 </div>
 
