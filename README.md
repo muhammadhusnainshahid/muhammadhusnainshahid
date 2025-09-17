@@ -12,11 +12,9 @@
 
 </div>
 
----
-
 ## 🚀 About Me 💻
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
 
   <div align="left">
 
@@ -34,11 +32,10 @@
   </div>
 
   <div>
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
   </div>
 
 </div>
-
 ---
 
 ## 🔭 Current Focus
