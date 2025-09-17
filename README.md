@@ -16,9 +16,10 @@
 ---
 
 ## 🎯 About Me  
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
-  <div align="left">
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
 🚀 **Mobile Application Developer** | 🔥 **Flutter Enthusiast** | 🎨 **UI/UX Designer**  
 
@@ -31,13 +32,14 @@
 - 🎨 Focused on: **Native-like modern UI**  
 - ⚡ Fun Fact: I debug code faster than I cook dinner 😆  
 
-  </div>
+    </td>
+    <td width="40%" align="center">
 
-  <div>
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
-  </div>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
 
-</div>
+    </td>
+  </tr>
+</table>
 
 ---
 
