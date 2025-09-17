@@ -5,16 +5,18 @@
 </p>
 
 <div align="center">
-  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=muhammadhusnainshahid&color=blue&style=for-the-badge)  
 ![GitHub Followers](https://img.shields.io/github/followers/muhammadhusnainshahid?label=Followers&style=for-the-badge&color=64B3F4)  
 ![GitHub Stars](https://img.shields.io/github/stars/muhammadhusnainshahid?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=for-the-badge&color=FFD700)  
 
 </div>
 
+---
+
 ## 🚀 About Me 💻
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
   <div align="left">
 
@@ -36,6 +38,7 @@
   </div>
 
 </div>
+
 ---
 
 ## 🔭 Current Focus
