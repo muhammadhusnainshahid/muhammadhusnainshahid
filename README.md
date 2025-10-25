@@ -1,5 +1,5 @@
 <!-- Banner / Header -->
-![Banner](./bannerh.png)
+![Banner](./bannerhus.png)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=64B3F4&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Muhammad+Husnain;🚀+Flutter+Developer;📱+Mobile+App+Enthusiast;🌐+Future+Full-Stack+Engineer" alt="Typing SVG" />
